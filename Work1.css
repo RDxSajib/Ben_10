@@ -1,0 +1,43 @@
+*{
+  font-family: 'Kanit', sans-serif;
+}
+.wel{
+  
+   display: flex;
+   justify-content: center;
+   color: violet;
+   padding: 10px;
+}
+ header{
+   display: flex;
+   justify-content: right;
+   padding: 10px;
+ }
+.img1{
+ display: flex;
+ justify-content: right;
+ margin-right: 20px;
+}
+body{
+  background-color:none;
+}
+.homeb{
+  margin-right: 2px;
+}
+.aboutb{
+  margin-right: 2px;
+}
+.bioH{
+  padding-top: 50px;
+ display: flex;
+ justify-content: center;
+}
+.conH{
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.bioHd{
+ 
+ 
+}
